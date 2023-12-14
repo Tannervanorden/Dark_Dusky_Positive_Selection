@@ -16,7 +16,7 @@ Pal2nal.sh is the script that was used to create codon alignments.
 
 FastTree.sh is the code that was used to create gene trees.
 
-MakeForeground.py is the script that was used to select each species as the foreground for positive selection tests. 
+MakeForeground.py is and example of the script that was used to select each species as the foreground for positive selection tests. 
 
 Busted.sh is the script that was used to run Hyphy Busted.
 
