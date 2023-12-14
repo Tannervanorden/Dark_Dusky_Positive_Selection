@@ -10,7 +10,7 @@ CDhit.sh is and example of the code used to run CDhit.
 
 Sort_Genes.py is the script that was used to separate the genes based off of EggNogMapper annotation. You must remove the header line before this script will run.
 
-Translate.py is the script that was used to translate the open reading frames.
+Translate.py is the script that was used to translate the ORFs.
 
 Pal2nal.sh is the script that was used to create codon alignments.
 
