@@ -16,9 +16,13 @@ Pal2nal.sh is the script that was used to create codon alignments.
 
 FastTree.sh is the code that was used to create gene trees.
 
-MakeForeground.py is the script that was used to select S. variabilis as the foreground for positive selection tests. 
+MakeForeground.py is the script that was used to select each species as the foreground for positive selection tests. 
 
-Percent_Identity.py is the script that was used to calculate percent Identity.
+Busted.sh is the script that was used to run Hyphy Busted.
+
+Relax.sh is the script that was used to run Hyphy Relax.
+
+Percent_Identity.py is the script that was used to calculate percent identity.
 
 Graph_Ontology.R is the code that was used to make the bar plots for the publication.
 
